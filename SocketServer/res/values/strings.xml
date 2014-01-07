@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SocketServerActivity!</string>
+
+    <string name="app_name">SocketServer</string>
+    <string name="t1">SocketServer</string>
+    <string name="t2">SocketServer</string>
+    <string name="t3">SocketServer</string>
+    <string name="t4">SocketServer</string>
+    <string name="t5">SocketServer</string>
+</resources>
